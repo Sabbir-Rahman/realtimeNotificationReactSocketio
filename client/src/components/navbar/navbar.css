@@ -1,0 +1,18 @@
+.navbar {
+    height: 50px;
+    background-color: lightseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.iconImg {
+    width: 20px;
+    height: 20px;
+}
