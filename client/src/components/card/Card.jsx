@@ -32,7 +32,6 @@ const Card = ({post}) => {
                 ) : (
                     <img src={Heart} alt="" className="cardIcon" onClick={handleNotification}/>
                 )}
-                <img src={Heart} alt="" className="cardIcon"/>
                 <img src={Comment} alt="" className="cardIcon"/>
                 <img src={Share} alt="" className="cardIcon"/>
                 <img src={Info} alt="" className="cardIcon infoIcon"/>
